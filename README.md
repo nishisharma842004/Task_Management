@@ -54,7 +54,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.9+11-LTS-201, mixed mode, sharing)
 
 ### 5. Setting up task management Springboot App
 
--   Clone the entire application from [my public GitHub repository](https://github.com/supplecabinet/task-management).
+-   Clone the entire application from [my public GitHub repository](https://github.com/nishisharma842004/Task_Management.git)).
 -   Fire up your IDE and import the project from the cloned directory in your local file system.
 -   Configure the default SDK to the above-mentioned Java version.
 -   Build the application from maven lifecycle: mvn clean package
